@@ -1,0 +1,25 @@
+﻿{
+  "members": [
+    {
+      "nim": 103082400038,
+      "firstName": "Dimas",
+      "lastName": "Dewa",
+      "age": 20,
+      "gender": "Laki-laki"
+    },
+    {
+      "nim": 103082400039,
+      "firstName": "Vauziah",
+      "lastName": "Vicha",
+      "age": 21,
+      "gender": "Perempuan"
+    },
+    {
+      "nim": 103082400040,
+      "firstName": "Nando",
+      "lastName": "Febrian",
+      "age": 20,
+      "gender": "Laki - Laki"
+    }
+  ]
+}
