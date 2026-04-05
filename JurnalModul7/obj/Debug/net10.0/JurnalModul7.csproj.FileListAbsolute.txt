@@ -15,3 +15,4 @@ C:\Users\silvi\Documents\Kuliah\Semester 4\KLP\Tugas\JurnalModul7\JurnalModul7\o
 C:\Users\silvi\Documents\Kuliah\Semester 4\KLP\Tugas\JurnalModul7\JurnalModul7\obj\Debug\net10.0\JurnalModul7.genruntimeconfig.cache
 C:\Users\silvi\Documents\Kuliah\Semester 4\KLP\Tugas\JurnalModul7\JurnalModul7\obj\Debug\net10.0\ref\JurnalModul7.dll
 C:\Users\silvi\Documents\Kuliah\Semester 4\KLP\Tugas\JurnalModul7\JurnalModul7\bin\Debug\net10.0\jurnal7_2_103082400038.json
+C:\Users\silvi\Documents\Kuliah\Semester 4\KLP\Tugas\JurnalModul7\JurnalModul7\bin\Debug\net10.0\jurnal7_3_103082400038.json

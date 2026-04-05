@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{D01FE89A-3012-EF83-D63F-9E083EB3F63C}|JurnalModul7\\JurnalModul7.csproj|solutionrelative:jurnalmodul7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D01FE89A-3012-EF83-D63F-9E083EB3F63C}|JurnalModul7\\JurnalModul7.csproj|c:\\users\\silvi\\documents\\kuliah\\semester 4\\klp\\tugas\\jurnalmodul7\\jurnalmodul7\\glossaryitem103082400038.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01FE89A-3012-EF83-D63F-9E083EB3F63C}|JurnalModul7\\JurnalModul7.csproj|solutionrelative:jurnalmodul7\\glossaryitem103082400038.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01FE89A-3012-EF83-D63F-9E083EB3F63C}|JurnalModul7\\JurnalModul7.csproj|c:\\users\\silvi\\documents\\kuliah\\semester 4\\klp\\tugas\\jurnalmodul7\\jurnalmodul7\\jurnal7_3_103082400038.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D01FE89A-3012-EF83-D63F-9E083EB3F63C}|JurnalModul7\\JurnalModul7.csproj|solutionrelative:jurnalmodul7\\jurnal7_3_103082400038.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D01FE89A-3012-EF83-D63F-9E083EB3F63C}|JurnalModul7\\JurnalModul7.csproj|c:\\users\\silvi\\documents\\kuliah\\semester 4\\klp\\tugas\\jurnalmodul7\\jurnalmodul7\\teammembers103082400038.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D01FE89A-3012-EF83-D63F-9E083EB3F63C}|JurnalModul7\\JurnalModul7.csproj|solutionrelative:jurnalmodul7\\teammembers103082400038.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,19 +43,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TeamMembers103082400038.cs",
-              "DocumentMoniker": "C:\\Users\\silvi\\Documents\\Kuliah\\Semester 4\\KLP\\Tugas\\JurnalModul7\\JurnalModul7\\TeamMembers103082400038.cs",
-              "RelativeDocumentMoniker": "JurnalModul7\\TeamMembers103082400038.cs",
-              "ToolTip": "C:\\Users\\silvi\\Documents\\Kuliah\\Semester 4\\KLP\\Tugas\\JurnalModul7\\JurnalModul7\\TeamMembers103082400038.cs",
-              "RelativeToolTip": "JurnalModul7\\TeamMembers103082400038.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBoAAAAMAAAAAAAAAA==",
+              "Title": "GlossaryItem103082400038.cs",
+              "DocumentMoniker": "C:\\Users\\silvi\\Documents\\Kuliah\\Semester 4\\KLP\\Tugas\\JurnalModul7\\JurnalModul7\\GlossaryItem103082400038.cs",
+              "RelativeDocumentMoniker": "JurnalModul7\\GlossaryItem103082400038.cs",
+              "ToolTip": "C:\\Users\\silvi\\Documents\\Kuliah\\Semester 4\\KLP\\Tugas\\JurnalModul7\\JurnalModul7\\GlossaryItem103082400038.cs*",
+              "RelativeToolTip": "JurnalModul7\\GlossaryItem103082400038.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwEEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T18:08:17.34Z",
+              "WhenOpened": "2026-04-05T18:36:34.548Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "jurnal7_3_103082400038.json",
+              "DocumentMoniker": "C:\\Users\\silvi\\Documents\\Kuliah\\Semester 4\\KLP\\Tugas\\JurnalModul7\\JurnalModul7\\jurnal7_3_103082400038.json",
+              "RelativeDocumentMoniker": "JurnalModul7\\jurnal7_3_103082400038.json",
+              "ToolTip": "C:\\Users\\silvi\\Documents\\Kuliah\\Semester 4\\KLP\\Tugas\\JurnalModul7\\JurnalModul7\\jurnal7_3_103082400038.json",
+              "RelativeToolTip": "JurnalModul7\\jurnal7_3_103082400038.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-05T18:35:11.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "jurnal7_2_103082400038.json",
               "DocumentMoniker": "C:\\Users\\silvi\\Documents\\Kuliah\\Semester 4\\KLP\\Tugas\\JurnalModul7\\JurnalModul7\\jurnal7_2_103082400038.json",
               "RelativeDocumentMoniker": "JurnalModul7\\jurnal7_2_103082400038.json",
@@ -55,12 +76,11 @@
               "RelativeToolTip": "JurnalModul7\\jurnal7_2_103082400038.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-05T17:55:15.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-05T17:55:15.881Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "DataMahasiswa103082400038.cs",
               "DocumentMoniker": "C:\\Users\\silvi\\Documents\\Kuliah\\Semester 4\\KLP\\Tugas\\JurnalModul7\\JurnalModul7\\DataMahasiswa103082400038.cs",
               "RelativeDocumentMoniker": "JurnalModul7\\DataMahasiswa103082400038.cs",
@@ -68,21 +88,7 @@
               "RelativeToolTip": "JurnalModul7\\DataMahasiswa103082400038.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAwwCEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T17:30:15.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "jurnal7_1_103082400038.json",
-              "DocumentMoniker": "C:\\Users\\silvi\\Documents\\Kuliah\\Semester 4\\KLP\\Tugas\\JurnalModul7\\JurnalModul7\\jurnal7_1_103082400038.json",
-              "RelativeDocumentMoniker": "JurnalModul7\\jurnal7_1_103082400038.json",
-              "ToolTip": "C:\\Users\\silvi\\Documents\\Kuliah\\Semester 4\\KLP\\Tugas\\JurnalModul7\\JurnalModul7\\jurnal7_1_103082400038.json",
-              "RelativeToolTip": "JurnalModul7\\jurnal7_1_103082400038.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-05T17:25:29.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-05T17:30:15.618Z"
             },
             {
               "$type": "Document",
@@ -92,10 +98,34 @@
               "RelativeDocumentMoniker": "JurnalModul7\\Program.cs",
               "ToolTip": "C:\\Users\\silvi\\Documents\\Kuliah\\Semester 4\\KLP\\Tugas\\JurnalModul7\\JurnalModul7\\Program.cs",
               "RelativeToolTip": "JurnalModul7\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-05T16:42:57.102Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TeamMembers103082400038.cs",
+              "DocumentMoniker": "C:\\Users\\silvi\\Documents\\Kuliah\\Semester 4\\KLP\\Tugas\\JurnalModul7\\JurnalModul7\\TeamMembers103082400038.cs",
+              "RelativeDocumentMoniker": "JurnalModul7\\TeamMembers103082400038.cs",
+              "ToolTip": "C:\\Users\\silvi\\Documents\\Kuliah\\Semester 4\\KLP\\Tugas\\JurnalModul7\\JurnalModul7\\TeamMembers103082400038.cs",
+              "RelativeToolTip": "JurnalModul7\\TeamMembers103082400038.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T18:08:17.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "jurnal7_1_103082400038.json",
+              "DocumentMoniker": "C:\\Users\\silvi\\Documents\\Kuliah\\Semester 4\\KLP\\Tugas\\JurnalModul7\\JurnalModul7\\jurnal7_1_103082400038.json",
+              "RelativeDocumentMoniker": "JurnalModul7\\jurnal7_1_103082400038.json",
+              "ToolTip": "C:\\Users\\silvi\\Documents\\Kuliah\\Semester 4\\KLP\\Tugas\\JurnalModul7\\JurnalModul7\\jurnal7_1_103082400038.json",
+              "RelativeToolTip": "JurnalModul7\\jurnal7_1_103082400038.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-05T17:25:29.152Z"
             }
           ]
         }

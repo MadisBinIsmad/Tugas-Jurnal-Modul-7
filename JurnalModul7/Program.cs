@@ -9,5 +9,9 @@ class Program
         Console.WriteLine("");
 
         TeamMembers103082400038.ReadJSON();
+
+        Console.WriteLine("");
+
+        GlossaryItem103082400038.ReadJSON();
     }
 }
