@@ -1,1 +1,9 @@
-﻿Console.WriteLine("Hello, World!");
+﻿using JurnalModul7;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        DataMahasiswa103082400038.ReadJSON();
+    }
+}
